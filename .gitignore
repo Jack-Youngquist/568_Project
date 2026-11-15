@@ -2,3 +2,5 @@ data/
 *.csv
 *.db
 *.h5
+*.zip
+__pycache__/
